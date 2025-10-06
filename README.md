@@ -2,7 +2,7 @@
 
 A modern, interactive AI-powered chatbot built with **Next.js**, **React**, and the **Vercel AI SDK**. This chatbot allows you to interact with multiple AI models, perform web searches, view reasoning steps, and see sources for responses, all in real-time. It’s designed to be fully responsive, user-friendly, and easy to deploy.
 
-![Next.js AI Chat](public\Ai_chat.png)
+![Next.js AI Chat](public/Ai_chat.png)
 
 ---
 
